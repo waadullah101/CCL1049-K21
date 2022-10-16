@@ -13,7 +13,7 @@ Feature_04321.prototype = {
 	},
 
 	sayHello: function() {
-		return "Hello!";
+		return "Hello! Waad 1";
 	},
 
 	type: 'Feature_04321'
