@@ -16,7 +16,7 @@ jobs:
 
     - name: Publish to Store
       id: sncicd-publish-app
-      uses: ServiceNow/sncicd-publish-app@v2
+      uses: ServiceNow/sncicd-publish-app@1.9.1
       with:
         versionFormat: detect
       env:
