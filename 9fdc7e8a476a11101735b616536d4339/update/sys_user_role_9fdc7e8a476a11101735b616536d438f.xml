@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default user role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_526348_ccl1049_0.user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>waadullah.q</sys_created_by>
+        <sys_created_on>2022-10-16 17:24:12</sys_created_on>
+        <sys_id>9fdc7e8a476a11101735b616536d438f</sys_id>
+        <sys_name>x_526348_ccl1049_0.user</sys_name>
+        <sys_package display_value="CCL1049 CI/CD" source="x_526348_ccl1049_0">9fdc7e8a476a11101735b616536d4339</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCL1049 CI/CD">9fdc7e8a476a11101735b616536d4339</sys_scope>
+        <sys_update_name>sys_user_role_9fdc7e8a476a11101735b616536d438f</sys_update_name>
+    </sys_user_role>
+</record_update>

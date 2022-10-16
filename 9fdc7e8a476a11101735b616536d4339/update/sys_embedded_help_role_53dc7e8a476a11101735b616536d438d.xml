@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_526348_ccl1049_0.admin" name="x_526348_ccl1049_0.admin">d7dc7e8a476a11101735b616536d433f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>waadullah.q</sys_created_by>
+        <sys_created_on>2022-10-16 17:24:12</sys_created_on>
+        <sys_id>53dc7e8a476a11101735b616536d438d</sys_id>
+        <sys_name>d7dc7e8a476a11101735b616536d433f</sys_name>
+        <sys_package display_value="CCL1049 CI/CD" source="x_526348_ccl1049_0">9fdc7e8a476a11101735b616536d4339</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCL1049 CI/CD">9fdc7e8a476a11101735b616536d4339</sys_scope>
+        <sys_update_name>sys_embedded_help_role_53dc7e8a476a11101735b616536d438d</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>
