@@ -12,7 +12,7 @@ jobs:
     # this job will only run if the PR has been merged, not on cancelled requests
     if: github.event.pull_request.merged == true
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
 
     - name: Publish to Store
       id: sncicd-publish-app
